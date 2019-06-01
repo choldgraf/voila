@@ -65,7 +65,7 @@ suffixed with `voila`.
 The following screencast shows the voila-rendered version of notebook
 reproducing the "wealth of nation" data visualization with bqplot.
 
-![wealth of nations](voila-won.gif)
+![wealth of nations](docs/source/_static/voila-won.gif)
 
 ## Related projects
 
